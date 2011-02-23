@@ -1,5 +1,10 @@
-#!/usr/bin/env ruby
+ #!/usr/bin/env ruby
 
+<<<<<<< HEAD
 if true
-  puts "Hello World now"
+  puts "Hello World today"
+=======
+if false
+  puts "Hello World today"
+>>>>>>> master
 end
